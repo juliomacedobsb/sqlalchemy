@@ -1,5 +1,5 @@
 # sqlalchemy
-**criando banco de dados Postgres rodando dentro de um container Docker e inserindo os dados do nosso DataFrame nesse banco utilizando python , e utilizando Dbeaver para acesar os dados.**
+**criando banco de dados Postgres rodando dentro de um container Docker e inserindo os dados extraídos e tratados com python , e utilizando Dbeaver para acessar o banco.**
 
 projeto criado com jupyter-notebook rodando python 3.9.12 e as bibliotecas:
 
